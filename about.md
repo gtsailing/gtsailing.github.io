@@ -1,5 +1,5 @@
 ---
-layout: headerpage
+layout: aboutpage
 title: About
 ---
 
@@ -16,8 +16,3 @@ Our club is dedicated to promoting the sport of sailing to the Georgia Tech Comm
 -> Link to LLSC
 -> Aerial picture of LLSC
 -> Maybe google maps
-
-
-**Our Fleet**
-
--> All sail boats

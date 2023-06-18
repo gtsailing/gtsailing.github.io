@@ -1,7 +1,7 @@
 TODO:
 * Fix 404 layout
 * Add link icon to merch
-* Update link to lakehosts
+* Update link to skippers
 
 - Page asking for donations
 

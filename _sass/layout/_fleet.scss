@@ -1,0 +1,71 @@
+// Styling for the fleet section
+#fleet {
+  .boats {
+    flex-flow: row wrap;
+    position: relative;
+    .boat-entry {
+      padding-left: 10px;
+      padding-right: 10px;
+
+      .boat-desc {
+        margin-bottom: 50px;
+        text-align: center;
+        img {
+          width: 100%;
+          height: 210px;
+          object-fit: contain;
+        }
+        h4 {
+          margin-top: 25px;
+          margin-bottom: 0;
+          text-transform: none;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  #fleet {
+    .boats {
+      .boat-entry {
+        .boat-desc {
+          img {
+            width: 160px;
+            height: 160px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 992px) {
+  #fleet {
+    .boats {
+      .boat-entry {
+        .boat-desc {
+          img {
+            width: 210px;
+            height: 210px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  #fleet {
+    .boats {
+      .boat-entry {
+        .boat-desc {
+          img {
+            width: 250px;
+            height: 250px;
+          }
+        }
+      }
+    }
+  }
+}

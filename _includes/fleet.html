@@ -1,0 +1,22 @@
+<!-- Fleet -->
+<section class="page-section" id="fleet">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.fleet[site.locale].title }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.fleet[site.locale].text }}</h3>
+      </div>
+    </div>
+    <div class="row d-flex justify-content-center boats">
+      {% for boat in site.data.fleet[site.locale].boats %}
+      <div class="col-6 col-md-3 boat-entry">
+        <div class="boat-desc">
+          <img class="mx-auto" src="assets/img/fleet/{{ boat.image }}" alt="">
+          <h4>{{ boat.name }}</h4>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- End Fleet -->
