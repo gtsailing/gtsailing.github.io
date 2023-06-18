@@ -4,7 +4,8 @@
 	  <a class="navbar-brand js-scroll-trigger" href="/">
           {%- if site.logo -%}
             <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}"/>
-          {%- else -%}
+          {%- endif -%}
+          {%- if site.title -%}
             {{ site.title }}
           {%- endif -%}
       </a>

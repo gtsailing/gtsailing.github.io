@@ -1,0 +1,62 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  text: "Since its formation in 1961, the Sailing Club at Georgia Tech has united students with a common interest in sailing and sail boat racing. Over the years, the number of avid sailors at Georgia Tech has grown and so has our fleet. Check out a brief history of our club below."
+  # left is the default
+  #start_align: "left"
+  events:
+    - title: "Our Beginnings"
+      year: "1961 -- 1969"
+      desc: "The Georgia Tech Sailing Club was founded in 1961 by a group of students who were united by their love of sailing. Together, they sought to bring sailing to the Georgia Tech community at large.
+
+Lake Lanier (pictured right) was chosen as the primary location for the club’s activities off campus.
+
+In the September of 1964, the club hosted its first regatta. Thistles were borrowed from the Lake Lanier Sailing Club to put the event on, and Georgia Tech took third place overall."
+      image: assets/img/timeline/1.jpg
+      alt:
+    - title: "Starting a Fleet"
+      year: "1970 -- 1989"
+      desc: "In 1976, the club acquired a fleet of six Ghost 13s for use by the club. These boats were accompanied by a donated committee boat (dubbed “the Goose”) which served the club for several years. 
+Later, during the 1980s, the club purchased a fleet of Condor 15s, a Hobie 16, and an ex-Marine Patrol powerboat."
+      image: assets/img/timeline/2.jpg
+      alt:
+    - title: "More Boats"
+      year: "1990 -- 1999"
+      desc: "Throughout the late 80s and 90s, the club acquired various used Hobie 16s and Hobie 18s. In addition, the club purchased 4 new Lasers and 4 Mistral windsurfers. In the late 90s, the club purchased a J/24 and received a Santana 20 as a donation.
+
+In 1998, the GT Sailing Club hosted the Coronado 15 North American Championships with the Lake Lanier Sailing Club. Georgia Tech placed 3rd and 5th in the regatta."
+      image: assets/img/timeline/3.jpg
+      alt: image alt text
+    - title: "ICSA, C420s, and Regattas"
+      year: "2000 -- 2010"
+      desc: "Eager to become more involved in ICSA racing, the club began raising money for a fleet of C420s during the summer of 2004. The fleet was purchased in March of 2005.
+ 
+Traditionally held at Southern Yacht Club in New Orleans, the club hosted the regatta at Lake Lanier in light of the devastating effects of Hurricane Katrina earlier that year."
+      image: assets/img/timeline/4.jpg
+      alt:
+    - title: "Women's Team and Inaugural Open Regatta"
+      year: "2011 -- 2020"
+      desc: "In 2016, the club formed an official ICSA Women’s team.
+
+In the spring of 2017, the club hosted its first annual Open Regatta to bring together LLSC members and GT Sailing alumni. The regatta included two fleets: 420s and Optis. The club has hosted a similar event each year since."
+      image: assets/img/timeline/5.jpg
+      alt:
+  end: "Be Part <br> of Our <br> Story!"
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN

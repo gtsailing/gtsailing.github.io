@@ -21,11 +21,11 @@ title      : Georgia Tech Sailing Club
 email      : gtsailingexec@googlegroups.com #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Georgia Tech Sailing Club
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets/img/GTSC_Burgee_waving.png
+  height: 52 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale: "en-US"
 
 analytics:
   google: #Google Analytics tracking code here

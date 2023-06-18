@@ -1,0 +1,28 @@
+// Styling for the team section
+#team {
+  .people {
+    flex-flow: row wrap;
+    position: relative;
+    .people-entry {
+      flex: 0 1 20%;
+
+      .team-member {
+        margin-bottom: 50px;
+        text-align: center;
+        img {
+          width: 190px;
+          height: 190px;
+          border: 7px solid fade-out($black, 0.9);
+        }
+        h4 {
+          margin-top: 25px;
+          margin-bottom: 0;
+          text-transform: none;
+        }
+        p {
+          margin-top: 0;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+TODO:
+* Fix 404 layout
+* Add link icon to merch
+* Update link to lakehosts
+
+- Page asking for donations
+
+
+Homepage
+- Section with how to join (like here: https://www.gtsailing.org/join/)
+- Section on Learn To Sail (include link for sign-up form)
+- Follow us on instagram
+- Instagram feed

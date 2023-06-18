@@ -1,0 +1,77 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  groups:
+  - title: "Executive Board"
+    people:
+      - name: "Lauren Mellinger"
+        position: "Commodore"
+        image: lauren.jpg
+      - name: "Fabian Fleischer"
+        position: "Vice-Commodore"
+        image: fabian.jpg
+      - name: "Charles Federico"
+        position: "Treasurer"
+        image: charles.jpg
+      - name: "Sofia Moreno"
+        position: "Secretary"
+        image: sofia.jpg
+      - name: "Tyler LaBonte"
+        position: "Fleet Captain"
+        image: tyler.jpg
+      - name: "Charlotte Meyers"
+        position: "Dinghy Race Team Captain"
+        image: charlotte.jpg
+      - name: "Roberto Martelli"
+        position: "Keelboat Race Team Captain"
+        image: roberto.jpg
+      - name: "Liz Kelly"
+        position: "Membership Chair"
+        image: liz.jpg
+      - name: "James Keller"
+        position: "Safety Officer"
+        image: empty.jpg
+      - name: "Ananya Jain"
+        position: "Apparel Chair"
+        image: empty.jpg
+  - title: "Lake Hosts Summer 2023"
+    people:
+      - name: "Tyler LaBonte"
+        image: tyler.jpg
+      - name: "Roberto Martelli"
+        image: roberto.jpg
+      - name: "Shannon McGrane"
+        image: shannon.png
+      - name: "Fabian Fleischer"
+        image: fabian.jpg
+      - name: "Charlotte Meyers"
+        image: charlotte.jpg
+      - name: "Cooper Voigt"
+        image: cooper.jpg
+      - name: "Charles Federico"
+        image: charles.jpg
+      - name: "Matthew Simpson"
+        image: matthew.png
+      - name: "Austin Buck"
+        image: austin.jpg
+  extra_info:
+    title: "Certified Skippers"
+    text: "You can find an up-to-date list with all certified skippers [here](https://example.com)."
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN

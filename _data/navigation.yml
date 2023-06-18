@@ -13,14 +13,18 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       url: about
+    - title: "History"
+      url: history
     - title: "Racing"
       url: racing
     - title: "Team"
       url: team
-    - title: "Links"
-      url: links
+    - title: "Calendar"
+      url: calendar
     - title: "Contact"
       url: contact
+    - title: "Merch"
+      url: https://gtsailing.square.site/
 en-US:
   <<: *DEFAULT_EN
 en-CA:

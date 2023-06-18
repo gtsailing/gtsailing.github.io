@@ -25,12 +25,11 @@
       <!-- Legal -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
-          <li class="list-inline-item">
-            <a href="legal"
-              >{{ site.data.sitetext[site.locale].footer.legal | default:
-              "Privacy Policy" }}</a
-            >
-          </li>
+          {% for link in site.data.sitetext[site.locale].footer.legal %}
+            <li class="list-inline-item">
+              <a href="{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
         </ul>
       </div>
     </div>
@@ -58,12 +57,11 @@
       <!-- Legal -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
-          <li class="list-inline-item">
-            <a href="legal"
-              >{{ site.data.sitetext.footer.legal | default:
-              "Privacy Policy" }}</a
-            >
-          </li>
+          {% for link in site.data.sitetext[site.locale].footer.legal %}
+            <li class="list-inline-item">
+              <a href="{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
         </ul>
       </div>
     </div>

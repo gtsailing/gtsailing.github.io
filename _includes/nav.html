@@ -7,11 +7,11 @@
   <div class="container">
     <a class="navbar-brand js-scroll-trigger" href="/">
       {%- if site.logo -%}
-      <img
-        height="{{ site.logo.height | default: 52 }}"
-        src="{{ site.logo.path }}"
-      />
-      {%- else -%} {{ site.title }} {%- endif -%}
+        <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}"/>
+      {%- endif -%}
+      {%- if site.title -%}
+        {{ site.title }}
+      {%- endif -%}
     </a>
     <button
       class="navbar-toggler navbar-toggler-right"
