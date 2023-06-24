@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   club:
-    text: "Our club is dedicated to promoting the sport of sailing to the Georgia Tech Community. We sponsor all kinds of events throughout the semester such as lake days, trips, and on-campus gatherings."
+    text: "Our club is devoted to advancing the sport of sailing within the Georgia Tech Community. We host an array of events during each semester, including lake days, excursions, and on-campus socials."
     pictures:
       - img: 1.jpg
       - img: 2.jpg
@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     img: llsc.jpg
   fleet:
     title: "Our Fleet"
-    text: Georgia Tech owns a fleet of sailboats, including dinghies, keelboats, and windsurfers, up at Lake Lanier Sailing Club. Our fleet is available for use by any member who is skipper certified.
+    text: "Georgia Tech maintains a versatile fleet of sailboats, encompassing dinghies, keelboats, and windsurfers, stationed at Lake Lanier Sailing Club. Any club member with skipper certification is welcome to utilize our fleet."
     boats:
       - name: "12x C420"
         image: c420.png
