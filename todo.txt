@@ -1,9 +1,9 @@
 TODO:
-* Fix 404 layout
-* Add link icon to merch
 * Update link to skippers
+* Add a solution for email lists
 
 - Page asking for donations
+
 
 
 Homepage

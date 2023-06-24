@@ -1,0 +1,49 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  club:
+    text: "Our club is dedicated to promoting the sport of sailing to the Georgia Tech Community. We sponsor all kinds of events throughout the semester such as lake days, trips, and on-campus gatherings."
+    pictures:
+      - img: 1.jpg
+      - img: 2.jpg
+      - img: 3.jpg
+      - img: 4.jpg
+  host:
+    title: "Where We Sail"
+    text: "We embark on our sailing adventures from the beautiful setting of [Lake Lanier Sailing Club in Flowery Branch, Georgia](https://www.llsc.com/). Georgia Tech supports sailing activities with 10 student memberships and a fleet of boats. This enables us to be dynamic participants in the LLSC community."
+    maps_url: "https://maps.google.com/maps?q=llsc&amp;t=m&amp;z=12&amp;output=embed&amp;iwloc=near"
+    img: llsc.jpg
+  fleet:
+    title: "Our Fleet"
+    text: Georgia Tech owns a fleet of sailboats, including dinghies, keelboats, and windsurfers, up at Lake Lanier Sailing Club. Our fleet is available for use by any member who is skipper certified.
+    boats:
+      - name: "12x C420"
+        image: c420.png
+      - name: "5x Laser"
+        image: laser.png
+      - name: "3x Hobie 16"
+        image: hobie16.png
+      - name: "Windsurf Kits"
+        image: windsurf.gif
+      - name: "2x J/24"
+        image: j24.gif
+      - name: "Catalina 27"
+        image: catalina27.png
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
