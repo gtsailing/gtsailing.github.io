@@ -1,8 +1,14 @@
 TODO:
 * Update link to skippers
-* Add a solution for email lists
+* Fix font on iOS
+
+
+- Add a solution for email lists
+
+- List dues
 
 - Page asking for donations
+
 
 
 

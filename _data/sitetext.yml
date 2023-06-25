@@ -35,23 +35,35 @@ The purpose of this club is to encourage sailing, teach sailing and promote raci
         title: "Travel"
         text: "Many of the regattas that members of the GT Sailing club compete in are hosted outside of Atlanta, giving competitors the opportunity to travel across the country."
 
-  services:
-    title: "Join Us ..."
-    text: "Lorem ipsum"
+  join:
+    title: "Join Us"
+    text: "We're glad you're interested in joining! All undergraduate students, graduate students, and faculty at Georgia Tech can join the GT Sailing Club. No prior sailing experience is necessary. We accept new members year-round. Check the best ways to get involved:"
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Join Slack"
+        desc: "Slack is the best way to stay up to date on all GT Sailing-related opportunities and events. It's your starting point to engage and participate in the club. Join [here](https://join.slack.com/t/gtsailingclub/shared_invite/zt-bxygw58h-G77m5pDo0DcRsoBkY~xO3g)."
+        icon: fab fa-slack
+      - title: "Visit The Lake"
+        desc: "Check out the Slack channel #going2lake to arrange a ride and give sailing a try! We promise you'll love it. New and prospective members can visit the lake before committing and paying dues."
+        icon: fas fa-water
+      - title: "Learn to Sail"
+        desc: "Embark on your sailing journey with our [Learn To Sail](#teaching) class. We'll equip you with all the necessary skills to navigate a sailboat, requiring no previous experience."
+        icon: fas fa-chalkboard-teacher
 
 
   teaching:
-    title: "... and Learn How To Sail"
+    title: "Learn To Sail Class"
+    text: "A 6-week course, ideal for beginners or those seeking a quick refresher course in sailing!"
+    img: intro/learn.png
+    content: "Dive into our Learn To Sail course and master the lingo and skills needed to sail a boat. With in-person classroom sessions at the CRC and hands-on practice sessions out on the water, you're in for an adventurous ride. Whether you're a wide-eyed freshman or a seasoned faculty member, this is your golden ticket to making waves on campus. So come, be part of the Ramblin' Wreck community and let's set sail together!<br><br>
+
+_Classroom sessions_: Already started - Next course starts in fall 2023. \\
+
+_On-the-water sessions_: To be held at Lake Lanier Sailing Club on Sundays with dates to be announced! \\
+
+_Event cost_: The course cost is $20, and you must be a dues paying member of the Georgia Tech Sailing Club ($65/semester for students, $95/semester for faculty).
+<br>
+<br>
+If you have any questions, please contact @Fabian on Slack."
 
   insta:
     title: "Follow Us"
