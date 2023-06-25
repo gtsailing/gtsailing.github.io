@@ -1,0 +1,38 @@
+// Styling for the intro section
+#intro {
+  .intro-item {
+    right: 0;
+    margin: 0 0 15px;
+    .intro-caption {
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 25px 15px;
+      text-align: center;
+      background-color: $gray-100;
+      h4 {
+        margin: 0;
+        text-transform: none;
+      }
+      p {
+        font-size: 16px;
+        font-style: italic;
+        margin: 0;
+        @include serif-font;
+      }
+    }
+    img {
+      margin: 0 auto;
+      display: block;
+    }
+  }
+  * {
+    z-index: 2;
+  }
+}
+@media (min-width: 767px) {
+  #intro {
+    .intro-item {
+      margin: 0 0 30px;
+    }
+  }
+}

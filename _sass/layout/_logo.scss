@@ -1,0 +1,14 @@
+// Styling for the logo section
+section#logo {
+  background-color: $gray-900;
+  background-image: url("#{$bottom-image}");
+  background-repeat: no-repeat;
+  background-position: center;
+  .section-heading {
+    color: $white;
+  }
+  img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
