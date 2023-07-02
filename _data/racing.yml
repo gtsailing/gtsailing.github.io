@@ -1,0 +1,41 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  racing:
+    text: "As a Competitive Sport Club at Georgia Tech, we engage in various local and southeast sailing competitions, including keelboat regattas. Undergraduates can join the Dinghy Race Team to compete against other collegiate teams in the Inter-collegiate Sailing Association (ICSA), while our Keelboat Race Team is open to all club members. Check our [club calendar](/calendar) for all our events!"
+  racing-dinghy:
+    title: "Dinghy Race Team"
+    text: "Our student-run Dinghy Race Team, a member of the South Atlantic Intercollegiate Sailing Association (SAISA) under ICSA, competes regularly against other schools in the southeast. Despite Georgia Tech's academic rigor, team members maintain regular practice, workout schedules, and travel for regattas nearly every weekend during the semester. We field co-ed and women's teams that train using [C420s](https://club420.org/) and [Flying-Junior](https://en.wikipedia.org/wiki/International_FJ) dinghies at LLSC.\\
+
+Contact our [Dinghy Race Team Captain](/team) if you're interested in joining!"
+    img: dinghy-racing.jpg
+  college-sailing:
+    title: "Collegiate Sailing"
+    text: "The Inter-Collegiate Sailing Association (ICSA) oversees sailing competitions at colleges and universities in the US and parts of Canada through its seven regional Conferences. Originating in the 1890s and formalizing in 1928, college sailing now involves over 230 colleges, hosting races on most weekends throughout the year. As a coeducational sport, it has fostered many Olympic medalists and America’s Cup competitors.\\
+
+Find live regatta results [here](https://scores.collegesailing.org/schools/georgia-tech/)."
+    img: saisa.png
+  racing-keelboat:
+    title: "Keelboat Race Team"
+    text: "Our student-run Keelboat Race Team competes in local and intercollegiate regattas across the southeast, with anyone from the club eligible to join. Regular practices focus on crew dynamics and team-building. We compete on Lake Lanier using our J24s in various events, including LLSC's Wednesday Night Racing Series, LARC races, and seasonal regattas. Undergraduates can participate in intercollegiate events such as the Southern Collegiate Offshore Regatta (SCOR) and ICSA, sailing on a range of keelboats.\\
+
+Reach out to the [Keelboat Race Team Captain](/team) if you are interested in joining!"
+    img: keelboat-racing.jpg
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN

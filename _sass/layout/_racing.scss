@@ -1,0 +1,67 @@
+// Styling for the host section
+#racing {
+  h3 {
+    margin-bottom: 0;
+  }
+}
+
+#racing-dinghy, #college-sailing, #racing-keelboat {
+  padding: 50px 0;
+  div .d-flex {
+    div {
+      align-self: center;
+    }
+  }
+  p {
+    margin-bottom: 0;
+  }
+}
+
+#racing-dinghy {
+  img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+  }
+}
+
+#college-sailing {
+  div .d-flex {
+    direction: rtl;
+    div {
+      direction: ltr;
+    }
+  }
+  img {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+  }
+}
+
+#racing-keelboat {
+  img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  #racing-dinghy, #college-sailing, #racing-keelboat {
+    img {
+      margin-bottom: 20px;
+      height: 200px;
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  #racing-dinghy {
+    img {
+      height: 200px;
+    }
+  }
+}

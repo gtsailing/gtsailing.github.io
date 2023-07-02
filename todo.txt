@@ -1,6 +1,5 @@
 TODO:
 * Update link to skippers
-* Fix font on iOS
 
 
 - Add a solution for email lists
@@ -8,16 +7,3 @@ TODO:
 - List dues
 
 - Page asking for donations
-
-
-
-
-Homepage
-- intro: Section with info about what we do
-  -> like current portfolio page
-- join: Section with how to join (like here: https://www.gtsailing.org/join/)
-  -> Just like the current services page
-- teaching: Section on Learn To Sail (include link for sign-up form)
-  -> left side: one photo; right side: text
-- insta: Instagram feed
-- logo: bottom
