@@ -2,5 +2,3 @@ TODO:
 * Update link to skippers
 
 - Add a solution for email lists
-
-- Page asking for donations
