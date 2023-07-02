@@ -41,13 +41,13 @@ The purpose of this club is to encourage sailing, teach sailing and promote raci
     list:
       - title: "Join Slack"
         desc: "Slack is the best way to stay up to date on all GT Sailing-related opportunities and events. It's your starting point to engage and participate in the club. Join [here](https://join.slack.com/t/gtsailingclub/shared_invite/zt-bxygw58h-G77m5pDo0DcRsoBkY~xO3g)."
-        icon: fab fa-slack
+        icon: "fab fa-slack"
       - title: "Visit The Lake"
         desc: "Check out the Slack channel #going2lake to arrange a ride and give sailing a try! We promise you'll love it. New and prospective members can visit the lake before committing and paying dues."
-        icon: fas fa-water
+        icon: "fas fa-water"
       - title: "Learn to Sail"
         desc: "Embark on your sailing journey with our [Learn To Sail](#teaching) class. We'll equip you with all the necessary skills to navigate a sailboat, requiring no previous experience."
-        icon: fas fa-chalkboard-teacher
+        icon: "fas fa-chalkboard-teacher"
 
 
   teaching:

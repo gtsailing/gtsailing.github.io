@@ -1,5 +1,5 @@
 ---
-layout: headerpage
+layout: contactpage
 title: Contact
 ---
 

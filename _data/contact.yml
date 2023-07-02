@@ -1,0 +1,38 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  contact:
+    text: "We're happy to hear from you!"
+    list:
+      - title: "Text us on Slack"
+        desc: "The fastest way to contact us is to join our [Slack space](https://join.slack.com/t/gtsailingclub/shared_invite/zt-bxygw58h-G77m5pDo0DcRsoBkY~xO3g). Reach out in the <code>#general</code> channel or send a personal message to one of the team members."
+        icon: "fab fa-slack"
+      - title: "Send an Email"
+        desc: "Do you want to reach out to the executive board directly? Our email address is the easiest way to do so: [gtsailingexec@googlegroups.com](mailto:gtsailingexec@googlegroups.com)."
+        icon: "fas fa-envelope"
+      - title: "Donate"
+        desc: "Join us in the thrill of the GT Sailing Club's biannual Home Regattas and annual Alumni Fundraiser Regatta!
+Every lap we sail is thanks to your support.
+To keep us sailing smoothly, consider a [donation through PayPal](https://www.paypal.com/donate/?hosted_button_id=AZHVMGHBE9LEQ&source=qr).
+Want to contribute regularly? Opt for monthly donations! \\
+
+For any donation queries, reach out to our Treasurer, Charles Federico, at [gtsailingtreasurer@gmail.com](mailto:gtsailingtreasurer@gmail.com)."
+        icon: "fas fa-donate"
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
