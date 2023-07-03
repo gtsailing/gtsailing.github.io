@@ -19,7 +19,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Georgia Tech Sailing Club
 email      : gtsailingexec@googlegroups.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "Come sail with us! Welcome to the Georgia Tech Sailing Club website."
 author     : Georgia Tech Sailing Club
 logo:     #optional, defaults to site title
   path: assets/img/GTSC_Burgee_waving.png
