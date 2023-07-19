@@ -63,6 +63,8 @@ en: &DEFAULT_EN
         image: matthew.png
       - name: "Austin Buck"
         image: austin.jpg
+      - name: "Anthony Bertoni"
+        image: empty.jpg
   extra_info:
     title: "Certified Skippers"
     text: "You can find an up-to-date list with all certified skippers [here](https://example.com)."
