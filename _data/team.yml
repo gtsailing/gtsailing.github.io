@@ -45,26 +45,26 @@ en: &DEFAULT_EN
         image: empty.jpg
   - title: "Lake Hosts Summer 2023"
     people:
-      - name: "Tyler LaBonte"
-        image: tyler.jpg
-      - name: "Roberto Martelli"
-        image: roberto.jpg
-      - name: "Shannon McGrane"
-        image: shannon.png
-      - name: "Fabian Fleischer"
-        image: fabian.jpg
+      - name: "Charles Federico"
+        image: charles.jpg
       - name: "Charlotte Meyers"
         image: charlotte.jpg
       - name: "Cooper Voigt"
         image: cooper.jpg
-      - name: "Charles Federico"
-        image: charles.jpg
-      - name: "Matthew Simpson"
-        image: matthew.png
-      - name: "Austin Buck"
-        image: austin.jpg
-      - name: "Anthony Bertoni"
-        image: anthony.jpg
+      - name: "Fabian Fleischer"
+        image: fabian.jpg
+      - name: "James Keller"
+        image: empty.jpg
+      - name: "Kaitlyn Bagnoni"
+        image: empty.jpg
+      - name: "Mark Avara"
+        image: empty.jpg
+      - name: "Roberto Martelli"
+        image: roberto.jpg
+      - name: "Stephen Fazio"
+        image: empty.jpg
+      - name: "Tyler LaBonte"
+        image: tyler.jpg
   extra_info:
     title: "Certified Skippers"
     text: "You can find an up-to-date list with all certified skippers [here](https://example.com)."
