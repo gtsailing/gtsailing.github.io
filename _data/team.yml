@@ -62,7 +62,7 @@ en: &DEFAULT_EN
       - name: "Roberto Martelli"
         image: roberto.jpg
       - name: "Stephen Fazio"
-        image: empty.jpg
+        image: stephen.jpg
       - name: "Tyler LaBonte"
         image: tyler.jpg
   extra_info:
