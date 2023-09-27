@@ -30,11 +30,11 @@ en: &DEFAULT_EN
         image: c420.png
       - name: "5x Laser"
         image: laser.png
-      - name: "3x Hobie 16"
+      - name: "2x Hobie 16"
         image: hobie16.png
       - name: "Windsurf Kits"
         image: windsurf.gif
-      - name: "2x J/24"
+      - name: "3x J/24"
         image: j24.gif
       - name: "Catalina 27"
         image: catalina27.png
