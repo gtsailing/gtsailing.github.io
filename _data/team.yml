@@ -65,9 +65,6 @@ en: &DEFAULT_EN
         image: stephen.jpg
       - name: "Tyler LaBonte"
         image: tyler.jpg
-  extra_info:
-    title: "Certified Skippers"
-    text: "You can find an up-to-date list with all certified skippers [here](https://example.com)."
 
 en-US:
   <<: *DEFAULT_EN
