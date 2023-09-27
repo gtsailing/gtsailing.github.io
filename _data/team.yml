@@ -39,10 +39,10 @@ en: &DEFAULT_EN
         image: liz.jpg
       - name: "James Keller"
         position: "Safety Officer"
-        image: empty.jpg
+        image: james.jpg
       - name: "Ananya Jain"
         position: "Apparel Chair"
-        image: empty.jpg
+        image: ananya.jpg
   - title: "Lake Hosts Summer 2023"
     people:
       - name: "Charles Federico"
@@ -54,7 +54,7 @@ en: &DEFAULT_EN
       - name: "Fabian Fleischer"
         image: fabian.jpg
       - name: "James Keller"
-        image: empty.jpg
+        image: james.jpg
       - name: "Kaitlyn Bagnoni"
         image: empty.jpg
       - name: "Mark Avara"
