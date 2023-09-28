@@ -56,7 +56,7 @@ en: &DEFAULT_EN
       - name: "James Keller"
         image: james.jpg
       - name: "Kaitlyn Bagnoni"
-        image: empty.jpg
+        image: kaitlyn.jpg
       - name: "Mark Avara"
         image: empty.jpg
       - name: "Roberto Martelli"
