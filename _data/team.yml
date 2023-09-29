@@ -58,7 +58,7 @@ en: &DEFAULT_EN
       - name: "Kaitlyn Bagnoni"
         image: kaitlyn.jpg
       - name: "Mark Avara"
-        image: empty.jpg
+        image: mark.png
       - name: "Roberto Martelli"
         image: roberto.jpg
       - name: "Stephen Fazio"
