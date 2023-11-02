@@ -43,7 +43,7 @@ en: &DEFAULT_EN
       - name: "Ananya Jain"
         position: "Apparel Chair"
         image: ananya.jpg
-  - title: "Lake Hosts Summer 2023"
+  - title: "Lake Hosts Fall 2023"
     people:
       - name: "Charles Federico"
         image: charles.jpg
