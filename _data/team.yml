@@ -34,9 +34,9 @@ en: &DEFAULT_EN
       - name: "Roberto Martelli"
         position: "Keelboat Race Team Captain"
         image: roberto.jpg
-      - name: "Liz Kelly"
+      - name: "James Keller"
         position: "Membership Chair"
-        image: liz.jpg
+        image: james.jpg
       - name: "James Keller"
         position: "Safety Officer"
         image: james.jpg
