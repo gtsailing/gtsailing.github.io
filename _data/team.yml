@@ -43,7 +43,7 @@ en: &DEFAULT_EN
       - name: "Ananya Jain"
         position: "Apparel Chair"
         image: ananya.jpg
-  - title: "Lake Hosts Fall 2023"
+  - title: "Lake Hosts Spring 2024"
     people:
       - name: "Charles Federico"
         image: charles.jpg
@@ -57,8 +57,6 @@ en: &DEFAULT_EN
         image: james.jpg
       - name: "Kaitlyn Bagnoni"
         image: kaitlyn.jpg
-      - name: "Mark Avara"
-        image: mark.png
       - name: "Roberto Martelli"
         image: roberto.jpg
       - name: "Stephen Fazio"
