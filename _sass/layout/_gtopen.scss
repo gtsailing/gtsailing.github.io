@@ -1,0 +1,45 @@
+// Styling for the host section
+#gtopen {
+  h3 {
+    margin-bottom: 0;
+  }
+}
+
+#gtopen-details {
+  padding: 50px 0 100px 0;
+  div .d-flex {
+    div {
+      align-self: center;
+    }
+  }
+  p {
+    margin-bottom: 0;
+  }
+}
+
+#gtopen-details {
+  img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 20px;
+    border: 7px solid #e9ecef;
+  }
+}
+
+@media (max-width: 768px) {
+  #gtopen-details {
+    img {
+      margin-bottom: 20px;
+      height: 500px;
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  #gtopen-details {
+    img {
+      height: 400px;
+    }
+  }
+}

@@ -1,0 +1,37 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  gtopen:
+    title: "Georgia Tech Open Regatta 2024"
+    text: "We will be hosting our fundraising regatta on April 20th, 2024. All sailors are invited to join us for a fun day of dinghy sailing. \\
+
+      \\
+
+This regatta will have 5 fleets: two 420 fleets – one for the ACA 8th-12th grade sailors and one for all other 420 sailors, a laser fleet, an Opti fleet for junior sailors, and a Portsmouth fleet for all other dinghies interested in participating. Boat charter is available for 420s and lasers and is included with regatta registration. Charter will be assigned on a first come first serve basis (we have twelve 420s and three lasers available for use). \\
+
+      \\
+
+Registration is $60 per sailor and $40 for Optis and ACA sailors. A GT Open t-shirt and dinner is included with the registration fee. There will also be additional merchandise and dinners ($15 a person) available for purchase the day of the regatta or in the registration form. \\
+
+      \\
+
+REGISTER HERE: [https://forms.gle/35r2gQuaDJPSHrF96](https://forms.gle/35r2gQuaDJPSHrF96)"
+    img: logo.png
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
