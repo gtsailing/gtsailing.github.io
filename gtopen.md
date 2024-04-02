@@ -1,4 +1,5 @@
 ---
 layout: gtopenpage
-title: GT Sailing Presents
+title: GT Open Regatta 2024
+navbartitle: GT Sailing Presents
 ---

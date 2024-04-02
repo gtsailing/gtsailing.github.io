@@ -36,7 +36,11 @@
   <header class="masthead">
     <div class="container">
       <div class="intro-text-small">
+      {%- if page.navbartitle -%}
+        <div class="intro-heading">{{ page.navbartitle | markdownify }}</div>
+      {%- else -%}
         <div class="intro-heading">{{ page.title | markdownify }}</div>
+      {%- endif -%}
       </div>
     </div>
   </header>
