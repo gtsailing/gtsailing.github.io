@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Let's go
-    text: Sailing!
-    button: "Join Us"
-    buttonlink: "#intro"
+    title: "Join our fundraiser on April 20th:"
+    text: "GT Open Regatta 2024"
+    button: "More Info"
+    buttonlink: "/gtopen"
 
   intro:
     title: "Welcome to GT Sailing"
