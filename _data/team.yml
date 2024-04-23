@@ -31,9 +31,9 @@ en: &DEFAULT_EN
       - name: "James Keller"
         position: "Dinghy Race Team Captain"
         image: james.jpg
-      - name: "Roberto Martelli"
+      - name: "Fabian Fleischer"
         position: "Keelboat Race Team Captain"
-        image: roberto.jpg
+        image: fabian.jpg
       - name: "Francesca Ruhe"
         position: "Membership Chair"
         image: francesca.jpg
