@@ -13,33 +13,33 @@ en: &DEFAULT_EN
   groups:
   - title: "Executive Board"
     people:
-      - name: "Lauren Mellinger"
+      - name: "Charlotte Meyers"
         position: "Commodore"
-        image: lauren.jpg
-      - name: "Fabian Fleischer"
+        image: charlotte.jpg
+      - name: "Lauren Mellinger"
         position: "Vice-Commodore"
-        image: fabian.jpg
+        image: lauren.jpg
       - name: "Charles Federico"
         position: "Treasurer"
         image: charles.jpg
-      - name: "Sofia Moreno"
+      - name: "Abby Van Brimmer"
         position: "Secretary"
-        image: sofia.jpg
+        image: abby.jpg
       - name: "Tyler LaBonte"
         position: "Fleet Captain"
         image: tyler.jpg
-      - name: "Charlotte Meyers"
+      - name: "James Keller"
         position: "Dinghy Race Team Captain"
-        image: charlotte.jpg
+        image: james.jpg
       - name: "Roberto Martelli"
         position: "Keelboat Race Team Captain"
         image: roberto.jpg
-      - name: "James Keller"
+      - name: "Francesca Ruhe"
         position: "Membership Chair"
-        image: james.jpg
-      - name: "James Keller"
+        image: francesca.jpg
+      - name: "Alexey Tatarinov"
         position: "Safety Officer"
-        image: james.jpg
+        image: empty.jpg
       - name: "Ananya Jain"
         position: "Apparel Chair"
         image: ananya.jpg
@@ -63,6 +63,8 @@ en: &DEFAULT_EN
         image: stephen.jpg
       - name: "Tyler LaBonte"
         image: tyler.jpg
+      - name: "Gabrielle Penner"
+        image: empty.jpg
 
 en-US:
   <<: *DEFAULT_EN
