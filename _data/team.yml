@@ -39,7 +39,7 @@ en: &DEFAULT_EN
         image: francesca.jpg
       - name: "Alexey Tatarinov"
         position: "Safety Officer"
-        image: empty.jpg
+        image: alexey.jpg
       - name: "Ananya Jain"
         position: "Apparel Chair"
         image: ananya.jpg
