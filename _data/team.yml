@@ -49,22 +49,14 @@ en: &DEFAULT_EN
         image: charles.jpg
       - name: "Charlotte Meyers"
         image: charlotte.jpg
-      - name: "Cooper Voigt"
-        image: cooper.jpg
+      - name: "Grace Gentner"
+        image: empty.jpg
       - name: "Fabian Fleischer"
         image: fabian.jpg
-      - name: "James Keller"
-        image: james.jpg
-      - name: "Kaitlyn Bagnoni"
-        image: kaitlyn.jpg
-      - name: "Roberto Martelli"
-        image: roberto.jpg
-      - name: "Stephen Fazio"
-        image: stephen.jpg
       - name: "Tyler LaBonte"
         image: tyler.jpg
-      - name: "Gabrielle Penner"
-        image: empty.jpg
+      - name: "Wade Kovalik"
+        image: wade.jpg
 
 en-US:
   <<: *DEFAULT_EN
