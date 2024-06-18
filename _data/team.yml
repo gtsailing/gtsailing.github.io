@@ -50,7 +50,7 @@ en: &DEFAULT_EN
       - name: "Charlotte Meyers"
         image: charlotte.jpg
       - name: "Grace Gentner"
-        image: empty.jpg
+        image: grace.jpg
       - name: "Fabian Fleischer"
         image: fabian.jpg
       - name: "Tyler LaBonte"
