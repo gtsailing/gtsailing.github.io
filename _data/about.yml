@@ -32,8 +32,6 @@ en: &DEFAULT_EN
         image: laser.png
       - name: "2x Hobie 16"
         image: hobie16.png
-      - name: "Windsurf Kits"
-        image: windsurf.gif
       - name: "3x J/24"
         image: j24.gif
   links:
