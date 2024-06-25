@@ -36,8 +36,6 @@ en: &DEFAULT_EN
         image: windsurf.gif
       - name: "3x J/24"
         image: j24.gif
-      - name: "Catalina 27"
-        image: catalina27.png
   links:
     title: "Links"
     text: "You can find our current bylaws [here](https://drive.google.com/file/d/1tZrmuN7OkDJGYlvcpgQuVV-lZlksD_Uo/view).<br><br>
