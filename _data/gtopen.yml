@@ -11,25 +11,43 @@
 # -----------------
 en: &DEFAULT_EN
   gtopen:
-    title: "Georgia Tech Open Regatta 2024"
-    text: "We will be hosting our fundraising regatta on April 20th, 2024. All sailors are invited to join us for a fun day of dinghy sailing. \\
+    year-2024:
+      title: "Georgia Tech Open Regatta 2024"
+      text: "We will be hosting our fundraising regatta on April 20th, 2024. All sailors are invited to join us for a fun day of dinghy sailing. \\
 
-      \\
+        \\
 
-This regatta will have 5 fleets: two 420 fleets – one for the ACA 8th-12th grade sailors and one for all other 420 sailors, a laser fleet, an Opti fleet for junior sailors, and a Portsmouth fleet for all other dinghies interested in participating. Boat charter is available for 420s and lasers and is included with regatta registration. Charter will be assigned on a first come first serve basis (we have twelve 420s and three lasers available for use). \\
+  This regatta will have 5 fleets: two 420 fleets – one for the ACA 8th-12th grade sailors and one for all other 420 sailors, a laser fleet, an Opti fleet for junior sailors, and a Portsmouth fleet for all other dinghies interested in participating. Boat charter is available for 420s and lasers and is included with regatta registration. Charter will be assigned on a first come first serve basis (we have twelve 420s and three lasers available for use). \\
 
-      \\
+        \\
 
-Registration is $60 per sailor and $40 for Optis and ACA sailors. A GT Open t-shirt and dinner is included with the registration fee. There will also be additional merchandise and dinners ($15 a person) available for purchase the day of the regatta or in the registration form. \\
+  Registration is $60 per sailor and $40 for Optis and ACA sailors. A GT Open t-shirt and dinner is included with the registration fee. There will also be additional merchandise and dinners ($15 a person) available for purchase the day of the regatta or in the registration form. \\
 
-      \\
+        \\
 
-REGISTER HERE: [https://forms.gle/35r2gQuaDJPSHrF96](https://forms.gle/35r2gQuaDJPSHrF96) \\
+  REGISTER HERE: [https://forms.gle/35r2gQuaDJPSHrF96](https://forms.gle/35r2gQuaDJPSHrF96) \\
 
-      \\
+        \\
 
-The NOR is posted [here](https://docs.google.com/document/d/1eV5PbErxVdLiRYWrLwg2QKibfoBNGjIW/edit?usp=sharing&ouid=104894213339007185521&rtpof=true&sd=true)."
-    img: logo.png
+  The NOR is posted [here](https://docs.google.com/document/d/1eV5PbErxVdLiRYWrLwg2QKibfoBNGjIW/edit?usp=sharing&ouid=104894213339007185521&rtpof=true&sd=true)."
+      img: 2024.png
+    year-2025:
+      title: "Georgia Tech Open Regatta 2025"
+      text: "We will be hosting our annual fundraising regatta on April 5th-6th, 2025. All sailors are invited to join us for a fun weekend of dinghy and keelboat sailing. \\
+
+        \\
+
+  The regatta will feature two racing circles: A larger circle for all keelboats and a smaller circle for dinghies. Fleets of at least 5 boats will be eligible for their own start.
+  Boat charter is available for J/24s, 420s, and Lasers. Charter will be assigned on a first come first serve basis. \\
+
+        \\
+
+  Registration will be available here. Check back soon. \\
+
+        \\
+
+  The NOR and SIs will be posted here as well."
+      img: 2025.png
 
 en-US:
   <<: *DEFAULT_EN

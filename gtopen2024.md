@@ -1,6 +1,6 @@
 ---
 layout: gtopenpage
-title: GT Open Regatta 2025
+title: GT Open Regatta 2024
 navbartitle: GT Sailing Presents
-edition: year-2025
+edition: year-2024
 ---
