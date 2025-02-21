@@ -43,20 +43,26 @@ en: &DEFAULT_EN
       - name: "Ananya Jain"
         position: "Apparel Chair"
         image: ananya.jpg
-  - title: "Lake Hosts Spring 2024"
+  - title: "Lake Hosts Spring 2025"
     people:
+      - name: "Abby Van Brimmer"
+        image: abby.jpg
+      - name: "Annika Kaelin"
+        image: empty.jpg
       - name: "Charles Federico"
         image: charles.jpg
-      - name: "Charlotte Meyers"
-        image: charlotte.jpg
-      - name: "Grace Gentner"
-        image: grace.jpg
       - name: "Fabian Fleischer"
         image: fabian.jpg
+      - name: "Gabrielle Penner"
+        image: empty.jpg
+      - name: "Grace Gentner"
+        image: grace.jpg
+      - name: "Stephen (FAZ) Fazio"
+        image: empty.jpg
+      - name: "Tristan Sarton do Jonchay"
+        image: tristan.jpg
       - name: "Tyler LaBonte"
         image: tyler.jpg
-      - name: "Wade Kovalik"
-        image: wade.jpg
 
 en-US:
   <<: *DEFAULT_EN
