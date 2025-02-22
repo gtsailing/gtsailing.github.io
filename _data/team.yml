@@ -48,7 +48,7 @@ en: &DEFAULT_EN
       - name: "Abby Van Brimmer"
         image: abby.jpg
       - name: "Annika Kaelin"
-        image: empty.jpg
+        image: annika.png
       - name: "Charles Federico"
         image: charles.jpg
       - name: "Fabian Fleischer"
