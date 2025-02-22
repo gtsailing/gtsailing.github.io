@@ -54,7 +54,7 @@ en: &DEFAULT_EN
       - name: "Fabian Fleischer"
         image: fabian.jpg
       - name: "Gabrielle Penner"
-        image: empty.jpg
+        image: gabrielle.jpg
       - name: "Grace Gentner"
         image: grace.jpg
       - name: "Stephen (FAZ) Fazio"
