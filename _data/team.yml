@@ -58,7 +58,7 @@ en: &DEFAULT_EN
       - name: "Grace Gentner"
         image: grace.jpg
       - name: "Stephen (FAZ) Fazio"
-        image: empty.jpg
+        image: faz.jpg
       - name: "Tristan Sarton do Jonchay"
         image: tristan.jpg
       - name: "Tyler LaBonte"
