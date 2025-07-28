@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Let's go
     text: Sailing!
-    button: "Join Us"
+    button: "Race With Us"
     buttonlink: "#intro"
 
   intro:
