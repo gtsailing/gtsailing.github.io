@@ -30,7 +30,7 @@ en: &DEFAULT_EN
         image: annika.png
       - name: "Alex Bagnoni"
         position: "Director of Education"
-        image: empty.jpg
+        image: alex.jpg
   - title: "Committee Members"
     people:
       - name: "Wyatt Delevan"
