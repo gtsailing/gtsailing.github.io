@@ -31,17 +31,22 @@ en: &DEFAULT_EN
       - name: "Alex Bagnoni"
         position: "Director of Education"
         image: empty.jpg
+  - title: "Committee Members"
+    people:
       - name: "Wyatt Delevan"
-        position: "Membership Chair"
+        position: "Membership Chair (Membership Committee)"
         image: empty.jpg
+      - name: "Annika Kaelin"
+        position: "Head Safety Officer (Membership Committee)"
+        image: annika.png
       - name: "Fabian Fleischer"
-        position: "Fleet Captain"
+        position: "Fleet Captain (Financial Committee)"
         image: fabian.jpg
       - name: "Matthew Xu"
-        position: "Dinghy Race Team Captain"
+        position: "Dinghy Race Team Captain (Race Team Committee)"
         image: empty.jpg
       - name: "Grace Gentner"
-        position: "Keelboat Race Team Captain"
+        position: "Keelboat Race Team Captain (Race Team Committee)"
         image: grace.jpg
   - title: "Lake Hosts Summer 2025"
     people:
