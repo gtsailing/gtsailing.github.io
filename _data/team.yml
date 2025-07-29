@@ -16,53 +16,43 @@ en: &DEFAULT_EN
       - name: "Charlotte Meyers"
         position: "Commodore"
         image: charlotte.jpg
-      - name: "Lauren Mellinger"
+      - name: "Abby Van Brimmer"
         position: "Vice-Commodore"
-        image: lauren.jpg
-      - name: "Charles Federico"
-        position: "Treasurer"
-        image: charles.jpg
-      - name: "Abby Van Brimmer"
-        position: "Secretary"
         image: abby.jpg
-      - name: "Tyler LaBonte"
-        position: "Fleet Captain"
-        image: tyler.jpg
-      - name: "James Keller"
-        position: "Dinghy Race Team Captain"
-        image: james.jpg
-      - name: "Fabian Fleischer"
-        position: "Keelboat Race Team Captain"
-        image: fabian.jpg
-      - name: "Grace Gentner"
-        position: "Membership Chair"
-        image: grace.jpg
       - name: "Alexey Tatarinov"
-        position: "Safety Officer"
+        position: "Treasurer"
         image: alexey.jpg
-      - name: "Ananya Jain"
-        position: "Apparel Chair"
-        image: ananya.jpg
-  - title: "Lake Hosts Spring 2025"
-    people:
-      - name: "Abby Van Brimmer"
-        image: abby.jpg
+      - name: "maybe you?"
+        position: "Secretary"
+        image: empty.jpg
       - name: "Annika Kaelin"
+        position: "Director of Racing"
         image: annika.png
-      - name: "Charles Federico"
-        image: charles.jpg
+      - name: "Alex Bagnoni"
+        position: "Director of Education"
+        image: empty.jpg
+      - name: "Wyatt Delevan"
+        position: "Membership Chair"
+        image: empty.jpg
+      - name: "Fabian Fleischer"
+        position: "Fleet Captain"
+        image: fabian.jpg
+      - name: "Matthew Xu"
+        position: "Dinghy Race Team Captain"
+        image: empty.jpg
+      - name: "Grace Gentner"
+        position: "Keelboat Race Team Captain"
+        image: grace.jpg
+  - title: "Lake Hosts Summer 2025"
+    people:
       - name: "Fabian Fleischer"
         image: fabian.jpg
-      - name: "Gabrielle Penner"
-        image: gabrielle.jpg
-      - name: "Grace Gentner"
-        image: grace.jpg
+      - name: "Francis Flannery"
+        image: empty.jpg
+      - name: "Wade Kovalik"
+        image: wade.jpg
       - name: "Stephen (FAZ) Fazio"
         image: faz.jpg
-      - name: "Tristan Sarton do Jonchay"
-        image: tristan.jpg
-      - name: "Tyler LaBonte"
-        image: tyler.jpg
 
 en-US:
   <<: *DEFAULT_EN
