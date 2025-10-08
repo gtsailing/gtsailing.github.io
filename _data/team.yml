@@ -51,7 +51,7 @@ en: &DEFAULT_EN
   - title: "Lake Hosts Fall 2025"
     people:
       - name: "Abby van Brimmer"
-        image: empty.jpg
+        image: abby.jpg
       - name: "Alex Bagnoni"
         image: alex.jpg
       - name: "Annika Kaelin"
