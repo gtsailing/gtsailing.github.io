@@ -63,7 +63,7 @@ en: &DEFAULT_EN
       - name: "Henry Carlson"
         image: empty.jpg
       - name: "Jonathan Caruso"
-        image: empty.jpg
+        image: jonathan.jpg
       - name: "Tyler LaBonte"
         image: tyler.jpg
 
