@@ -48,16 +48,24 @@ en: &DEFAULT_EN
       - name: "Grace Gentner"
         position: "Keelboat Race Team Captain (Race Team Committee)"
         image: grace.jpg
-  - title: "Lake Hosts Summer 2025"
+  - title: "Lake Hosts Fall 2025"
     people:
+      - name: "Abby van Brimmer"
+        image: empty.jpg
+      - name: "Alex Bagnoni"
+        image: alex.jpg
+      - name: "Annika Kaelin"
+        image: annika.png
       - name: "Fabian Fleischer"
         image: fabian.jpg
-      - name: "Francis Flannery"
+      - name: "Grace Gentner"
+        image: grace.jpg
+      - name: "Henry Carlson"
         image: empty.jpg
-      - name: "Wade Kovalik"
-        image: wade.jpg
-      - name: "Stephen (FAZ) Fazio"
-        image: faz.jpg
+      - name: "Jonathan Caruso"
+        image: empty.jpg
+      - name: "Tyler LaBonte"
+        image: tyler.jpg
 
 en-US:
   <<: *DEFAULT_EN
