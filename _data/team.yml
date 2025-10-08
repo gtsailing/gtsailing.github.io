@@ -61,7 +61,7 @@ en: &DEFAULT_EN
       - name: "Grace Gentner"
         image: grace.jpg
       - name: "Henry Carlson"
-        image: empty.jpg
+        image: henry.jpg
       - name: "Jonathan Caruso"
         image: jonathan.jpg
       - name: "Tyler LaBonte"
