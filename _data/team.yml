@@ -22,9 +22,9 @@ en: &DEFAULT_EN
       - name: "Alexey Tatarinov"
         position: "Treasurer"
         image: alexey.jpg
-      - name: "maybe you?"
+      - name: "David Reina Garcia"
         position: "Secretary"
-        image: empty.jpg
+        image: david.jpg
       - name: "Annika Kaelin"
         position: "Director of Racing"
         image: annika.png
