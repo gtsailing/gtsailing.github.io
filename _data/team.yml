@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     people:
       - name: "Wyatt Delevan"
         position: "Membership Chair (Membership Committee)"
-        image: empty.jpg
+        image: wyatt.jpg
       - name: "Annika Kaelin"
         position: "Head Safety Officer (Membership Committee)"
         image: annika.png
